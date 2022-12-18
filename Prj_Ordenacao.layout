@@ -1,0 +1,33 @@
+[Editors]
+Order=0,1,2
+Focused=1
+[Editor_0]
+<<<<<<< HEAD
+CursorCol=17
+CursorRow=29
+TopLine=1
+LeftChar=1
+[Editor_1]
+CursorCol=2
+CursorRow=147
+TopLine=131
+LeftChar=1
+[Editor_2]
+CursorCol=31
+CursorRow=30
+=======
+CursorCol=8
+CursorRow=15
+TopLine=1
+LeftChar=1
+[Editor_1]
+CursorCol=5
+CursorRow=146
+TopLine=107
+LeftChar=1
+[Editor_2]
+CursorCol=3
+CursorRow=32
+>>>>>>> 521f80b2b97cdb623b97c3aad14ef7ddf3a1ea66
+TopLine=1
+LeftChar=1
